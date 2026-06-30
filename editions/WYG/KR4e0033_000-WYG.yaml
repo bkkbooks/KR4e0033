@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4e0033/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部六
+  hash: sha256:859be96469d41da55102a3ac10450a959c78b164b3aa3213a08844c2a3407181
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4e0033_WYG_000-1a, image: WYG1229/WYG1229-0563a.png}
+body:
+  text: 尚絅齋集别集類五明提要臣等謹案尚絅齋集五巻明童冀撰冀字中州金華人生于元末洪武丙辰被徵入書舘後為湖州府教授調北平坐罪卒此集不知何人所編分詩文為二集體例襍糅殆不可讀就其編目考之原目當為金華集南行集霅川集北游集四種前三集兼載詩文惟北游集有詩無文後人不知古法以詩歸詩以文歸文分為二集而詩文之中又不各歸其類前後複叠職此之由幸其雖經割裂尚未竄亂猶有端緒可尋今詳考標題仍分為四集中間時有闕文又霅川集末䟦唐五王醉歸圖一萹書桞子厚伊尹五就桀賛後一萹書王簡死事傳後一萹書金莭婦傳後一萹書集芳詩文巻後一巻卜釋一萹悉有録無書葢蠧蝕殘缺今亦仍其舊冀在明初與宋濓張羽姚廣孝相倡和詞意清剛不染元季綺靡之習雖名不甚著而在一時作者之中固亦肩隨無愧也乾隆四十四年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:c7dc2929e5471b9b41589f2ab31f91f4b601a5153dcfbbcb3b5e5f1d3a2f7f49
+metadata:
+  title: 尚絅齋集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:16:54.150364'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4e0033/KR4e0033_000.txt
+hash: sha256:e6f00b657e11292d3e20f3c46ba767c2ef3f3cd8cce141eb9516b006ecad2fde
